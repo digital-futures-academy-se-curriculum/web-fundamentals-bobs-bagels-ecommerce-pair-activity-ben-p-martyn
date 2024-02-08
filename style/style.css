@@ -1,0 +1,52 @@
+#top{
+    margin: 20px 50px; 
+    border-style: solid;
+    border-width: 5px;
+    min-height: 400px;
+}
+
+#bottom{
+    margin: auto 100px auto 100px; 
+    border-style: solid;
+    border-width: 5px;
+    max-width: 90%;
+}
+
+.description{
+    font-size: medium;
+}
+
+.navbar {
+    max-width: 100%;
+    margin: 30px auto 10px; 
+    padding-bottom: 20px;
+}
+
+.navbar-nav {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+  }
+
+#title-header-content{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.bot-left{
+    margin: 60px auto 30px 20px;
+    text-align: center;
+}
+
+.d-block{
+    max-height: 800px;
+}
+
+#logo{
+    margin-top: 20px
+}
+
+#newHeader{
+    text-align: center;
+}
